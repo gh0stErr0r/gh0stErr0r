@@ -1,3 +1,4 @@
+# https://codeberg.org/ghost_err
 # I hate that Microsoft do!!!
 <!--
 <picture>
@@ -7,6 +8,8 @@
 </picture>
 -->
 (mini site: https://someerr.online )
+
+
 
 ###
 
